@@ -9,4 +9,4 @@ Linguagem Python
 Jupyter Notebook
 Anaconda 3 (python 3.11)
 VSCode Desktop
-Modelos de IA: KNeighbors_Classifier, RandomForestClassifier
+Pandas
